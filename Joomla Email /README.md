@@ -1,2 +1,1 @@
-Hi,
- This is a Basic Joomla Component.
+This is a Joomla Component For Managing Predefined Emails. The component is in its development stage.
