@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install type="component" version="2.5.8">
+<name>Price_Update</name>
+<creationDate>2013-25-05</creationDate>
+<author>Clapone</author>
+<authorEmail>care@clapone.com</authorEmail>
+<description>Crawles web pages and updates the prices of products.</description>
+
+<languages folder="site">
+		<language tag="en-GB">language/en-GB.com_search.ini
+		</language>
+	</languages>
+
+<administration>
+<menu>Price Update</menu>
+<files folder="admin">
+<filename>price_update.php</filename>
+<filename>crawlerfinal.php</filename>
+<filename>takeaction.php</filename>
+</files>
+</administration>
+</install>
+

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension
+	type="module"
+	version="1.0.0"
+	client="site">
+	<name>Clapone Ajax</name>
+    <files>
+        <filename module="mod_clapone_ajax">mod_clapone_ajax.php</filename>
+        <filename>index.html</filename>
+	<filename>mod_clapone_ajax.xml</filename>
+         <filename>tmpl/default.php</filename>
+        <filename>tmpl/index.html</filename>
+    </files>
+
+    <config>
+    </config>
+</extension>
+
