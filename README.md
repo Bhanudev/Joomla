@@ -1,4 +1,0 @@
-Joomla
-======
-
-My Joomla Development
